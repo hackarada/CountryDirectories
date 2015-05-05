@@ -5,3 +5,13 @@
 Given that both the csv file and the python file are in the same directory.
 
 c:\\[directory]\\> python imports.py 
+
+#Files
+
+ *Country.csv
+ The csv file containning latest(5 may) details of all countries around the wold
+ 
+ *ImportCreate.py
+ the main python code to import and create the folders under \world
+ 
+ 
