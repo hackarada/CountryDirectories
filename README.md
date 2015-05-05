@@ -6,7 +6,9 @@ Execution
 =========
 Given that both the csv file and the python file are in the same directory.
 
-c:\\[directory]\\> python imports.py 
+```shell
+python imports.py 
+```
 
 ##Files
 
