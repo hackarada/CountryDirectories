@@ -1,7 +1,7 @@
 ##################################################################################################################
 # 	                  Date:May 5  2015					                                 #
 # 	                  Author : Ermias Bayu,  Osmania University ,Hyderabad India    			 #
-#       A python code to read list of countries from a csv 	 file and create directories for each countries  #
+#       A python code to read list of countries from a csv file and create directories for each countries        #
 ##################################################################################################################
 
 import csv
