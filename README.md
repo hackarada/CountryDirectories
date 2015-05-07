@@ -13,9 +13,14 @@ python imports.py
 ##Files
 
  * Country.csv : 
- The csv file containning latest(5 may) details of all countries around the wold
+ 
+
+ The csv file containning details of all countries around the wold - based on ISO 3166-1
+ (http://en.wikipedia.org/wiki/ISO_3166-1_)
  
  * ImportCreate.py : 
-h e main python code to import and create the folders under \world
+
+
+The main python code to import and create the folders under \world
  
  
