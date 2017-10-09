@@ -1,6 +1,6 @@
 CountryDirectories
 =========
- A python code to read a csv file containning list of countries in the wold and creat a folder for each countries under \world 
+ A python code to read a csv file containning list of all countries in the world and creat a folder for each countries under \world 
  
 Execution 
 =========
@@ -19,8 +19,6 @@ python imports.py
  (http://en.wikipedia.org/wiki/ISO_3166-1_)
  
  * ImportCreate.py : 
-
-
 The main python code to import and create the folders under \world
  
  
